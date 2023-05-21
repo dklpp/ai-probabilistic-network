@@ -14,7 +14,7 @@ A probabilistic network is given in external memory file input.txt. The probabil
 
 E.g., the probabilistic network displayed above would be represented in a file this way:
 
-A 0       0.7
+A 0       0.7  
 B 1 0     0.1 0.4
 C 1 0     0.6 0.8
 D 2 2 1   0.6 0.7 0.1 0.2
