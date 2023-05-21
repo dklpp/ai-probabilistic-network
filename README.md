@@ -1,7 +1,6 @@
 # ai-probabilistic-network
 
-To calculate the probability write in this format:
-Write in this format: A|B, -C
+To calculate the probability write in this format: A|B, -C
 
 Task.
 
