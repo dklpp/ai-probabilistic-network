@@ -3,7 +3,7 @@
 To calculate the probability write in this format:
 Write in this format: A|B, -C
 
-Task. 􏰘 􏰑􏰌􏰊􏰍􏰂
+Task.
 
 A probabilistic network is given in external memory file input.txt. The probabilistic network in a file is represented based on these principles:
 
